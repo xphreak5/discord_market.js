@@ -1,6 +1,9 @@
 const { MessageEmbed } = require("discord.js")
 const db = require("wio.db")
 
+console.log("31")
+
+
 module.exports = {
     name: "satın-al",
     aliases: ["satın-al"],
